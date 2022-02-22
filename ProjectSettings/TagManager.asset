@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Package
+  - Customer
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Road
+    uniqueID: 4191039623
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2569502141
+    locked: 0
+  - name: Triggers
+    uniqueID: 622820679
+    locked: 0
+  - name: Player
+    uniqueID: 112557801
     locked: 0
