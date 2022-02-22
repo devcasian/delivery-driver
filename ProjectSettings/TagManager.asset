@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Package
   - Customer
+  - Bump
+  - Boost
   layers:
   - Default
   - TransparentFX
@@ -51,6 +53,9 @@ TagManager:
     locked: 0
   - name: Triggers
     uniqueID: 622820679
+    locked: 0
+  - name: Runes
+    uniqueID: 1526420931
     locked: 0
   - name: Player
     uniqueID: 112557801
